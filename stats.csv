@@ -1,0 +1,8 @@
+﻿Country,nbr_visitors,new_visitors,Sessions,rebound_rate,Pages_per_session,average_session_duration
+France,44406,43979,77801,31.70%,7.00,251.31
+England,9223,9185,15235,34.26%,6.11,227.16
+USA,6994,7049,12761,32.58%,6.74,284.85
+Germany,8813,8623,13978,32.39%,6.60,223.80
+Italy,4938,4905,8446,33.58%,7.11,251.30
+Belgium,1789,1777,2986,29.47%,7.30,253.60
+Canada,1736,1744,2273,34.62%,4.64,150.50
